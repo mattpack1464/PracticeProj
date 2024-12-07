@@ -88,17 +88,19 @@ main {
 }
 
 .product-card button {
-    background-color: #28a745;
+    background-color: #606261;
     color: white;
     border: none;
     padding: 10px 15px;
     margin-top: 10px;
     border-radius: 5px;
     cursor: pointer;
+    width: 100px;
+    height: 50px;
 }
 
 .product-card button:hover {
-    background-color: #218838;
+    background-color: #f34141;
 }
 
 footer {
